@@ -1,0 +1,6 @@
+{
+  "name": "Batch Image Studio",
+  "description": "Professional tool for batch image generation from text prompts using Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
